@@ -2,5 +2,6 @@
 
 Activation funcions implemented are softmax, relu, leaky relu, sigmoid and tanh.
 
+let us dive in 
 
 
